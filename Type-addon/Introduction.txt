@@ -1,0 +1,5 @@
+Additional types for the c language
+
+It contains two types for size expression
+and four types for real/integer expression 
+defined to use a more intuitive name.
